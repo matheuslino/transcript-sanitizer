@@ -1,0 +1,11 @@
+TRANSCRIPT (CHRONOLOGICAL): example-meeting.raw
+Generated: 2025-07-08 18:49:17
+================================================================================
+
+1. John Smith: Hello everyone, thanks for joining today.
+
+2. Sarah Johnson: Hi John, good to be here.
+
+3. Mike Chen: Thanks for organizing this meeting.
+
+4. John Smith: Great, let's get started with the agenda.

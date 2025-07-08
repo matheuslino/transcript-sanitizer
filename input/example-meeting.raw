@@ -1,0 +1,62 @@
+<div id="transcript-container" class="relative max-w-[630px] mx-auto overflow-y-auto no-scrollbar selection:bg-[#EBFFFB] selection:text-base-500">
+  <div class="flex flex-1 flex-col gap-2">
+    <p data-index="0" class="group/block px-6 pb-2 leading-[17px]" data-time="0" data-active="false">
+      <span class="cursor-pointer text-[13px] text-base-600 font-semibold block select-none" data-speaker="true" data-read="true" data-time="0" data-active="false">
+        <a href="https://tldv.io/app/meetings?t=0" class="hidden text-primary-400">00:00 </a>
+        <span>John Smith</span>
+        <span class="hidden">: </span>
+      </span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="0" data-active="true">Hello</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="4" data-active="true">everyone</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="9" data-active="true">,</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="13" data-active="true">thanks</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="18" data-active="true">for</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="22" data-active="true">joining</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="27" data-active="true">today.</span>
+    </p>
+    
+    <p data-index="1" class="group/block px-6 pb-2 leading-[17px]" data-time="1207" data-active="false">
+      <span class="cursor-pointer text-[13px] text-base-600 font-semibold block select-none" data-speaker="true" data-read="false" data-time="1207">
+        <a href="https://tldv.io/app/meetings?t=1.207" class="hidden text-primary-400">00:01 </a>
+        <span>Sarah Johnson</span>
+        <span class="hidden">: </span>
+      </span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="1207">Hi</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="1761">John</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="2316">,</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="2870">good</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="3425">to</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="3649">be</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="4076">here.</span>
+    </p>
+    
+    <p data-index="2" class="group/block px-6 pb-2 leading-[17px]" data-time="3649" data-active="false">
+      <span class="cursor-pointer text-[13px] text-base-600 font-semibold block select-none" data-speaker="true" data-read="false" data-time="3649">
+        <a href="https://tldv.io/app/meetings?t=3.649" class="hidden text-primary-400">00:03 </a>
+        <span>Mike Chen</span>
+        <span class="hidden">: </span>
+      </span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="3649">Thanks</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="4076">for</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="4503">organizing</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="4930">this</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="5357">meeting.</span>
+    </p>
+    
+    <p data-index="3" class="group/block px-6 pb-2 leading-[17px]" data-time="6000" data-active="false">
+      <span class="cursor-pointer text-[13px] text-base-600 font-semibold block select-none" data-speaker="true" data-read="false" data-time="6000">
+        <a href="https://tldv.io/app/meetings?t=6.000" class="hidden text-primary-400">00:06 </a>
+        <span>John Smith</span>
+        <span class="hidden">: </span>
+      </span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="6000">Great</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="6427">,</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="6854">let's</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="7281">get</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="7708">started</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="8135">with</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="8562">the</span>
+      <span data-clipped="false" class="cursor-pointer font-normal text-[13px] text-base-500" data-speaker="false" data-read="false" data-time="8989">agenda.</span>
+    </p>
+  </div>
+</div> 

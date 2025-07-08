@@ -1,0 +1,16 @@
+TRANSCRIPT: example-meeting.raw
+Generated: 2025-07-08 18:49:17
+================================================================================
+
+SPEAKER: John Smith
+----------------------------------------
+1. Hello everyone, thanks for joining today.
+2. Great, let's get started with the agenda.
+
+SPEAKER: Sarah Johnson
+----------------------------------------
+1. Hi John, good to be here.
+
+SPEAKER: Mike Chen
+----------------------------------------
+1. Thanks for organizing this meeting.
