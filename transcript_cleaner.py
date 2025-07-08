@@ -234,15 +234,15 @@ class TranscriptCleaner:
     
     def process_all_files(self) -> None:
         """
-        Process all .raw files in the input directory.
+        Process all .raw files in the input directory, skipping example files.
         """
-        raw_files = list(self.input_dir.glob("*.raw"))
+        raw_files = [f for f in self.input_dir.glob("*.raw") if f.name != "example-meeting.raw"]
         
         if not raw_files:
-            print(f"No .raw files found in {self.input_dir}")
+            print(f"No .raw files found in {self.input_dir} (excluding example files)")
             return
         
-        print(f"Found {len(raw_files)} transcript file(s) to process")
+        print(f"Found {len(raw_files)} transcript file(s) to process (excluding example files)")
         print(f"Input directory: {self.input_dir}")
         print(f"Output directory: {self.output_dir}")
         print("-" * 60)
